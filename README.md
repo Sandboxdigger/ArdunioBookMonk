@@ -1,2 +1,2 @@
 # ArdunioBookMonk
-Tutorial sand box to help me through Simon Monks Getting started with Sketches
+Tutorial sandbox to help me through Simon Monks Getting started with Sketches
